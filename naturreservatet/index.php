@@ -13,13 +13,13 @@
         <input placeholder="Apa" type="text" name="monkey" id="monkey">
         <input placeholder="Kokosnöt" type="text" name="coconut" id="coconut">
     
-  
+  <!-- 
     <select name="animal">
         <option value="giraf">Giraff</option> 
         <option value="tiger">Tiger</option> 
         <option value="monkey">Apa</option> 
         <option value="coconut">Kokosnöt</option> 
-     </select></select>
+     </select></select> -->
 
         <button type="submit">Spara</button>
     </form>
